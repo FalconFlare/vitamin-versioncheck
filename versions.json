@@ -1,5 +1,8 @@
 {
     "vitaminshop": {
         "currentversion": "1.0.0"
+    },
+    "vitamin": {
+        "currentversion": "1.0.0"
     }
 }
